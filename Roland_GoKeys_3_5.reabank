@@ -1,0 +1,1432 @@
+Bank 71 96 Ac.Piano
+0 PR001 Concert Piano
+1 PR002 Mellow Grand
+2 PR003 Grand XV
+3 PR004 Nice Piano
+4 PR005 Rocker Piano
+5 PR006 Piano Thang
+6 PR007 Magical Piano
+7 PR008 Piano+Str Layer
+8 PR009 WarmVoxPiano
+9 PR010 Bright Honkey
+10 PR011 Power Octs
+11 PR012 Tape MellowGrand
+12 PR013 Tiny Piano
+13 PR014 LoFi Ac.Piano
+14 PR015 Nostalgic Piano
+15 PR016 Dynamic JD-Piano
+16 PR017 Reverse Piano 1
+
+Bank 87 85 Ac.Piano
+0 CM001 Piano 1
+1 CM002 Piano 1 w
+2 CM003 Piano 1 d
+3 CM004 Piano 1 Bright
+4 CM005 Piano 1 Amp
+5 CM006 Piano 1 w 2
+6 CM007 Piano + Str 1
+7 CM008 Piano + Str 2
+8 CM009 Piano + Choir 1
+9 CM010 Piano + Choir 2
+10 CM011 Piano + Pad 1
+11 CM012 Piano + Pad 2
+12 CM013 Healing Piano
+13 CM014 Piano Vib
+14 CM015 Piano Dly
+15 CM016 Piano 2
+16 CM017 Piano 2 w
+17 CM018 JD Piano
+18 CM019 JD Piano w
+
+Bank 71 96 Pop Piano
+22 PR018 SA Piano
+23 PR019 Mixture Piano
+24 PR020 Pop Toy
+
+Bank 87 85 Pop Piano
+22 CM023 Honky-tonk
+23 CM024 Honky-tonk w
+24 CM025 Honky-tonk w 2
+
+Bank 71 96 E.Grand Piano
+20 PR021 70s E.Grand
+
+Bank 87 85 E.Grand Piano
+19 CM020 Piano 3
+20 CM021 Piano 3 w
+21 CM022 Piano 3 w 2
+
+Bank 71 96 E.Piano1
+21 PR022 70s Suitcase
+22 PR023 Lite Tine EP
+23 PR024 Lite Pop EP
+24 PR025 Soft Stage EP
+25 PR026 Wurly Vibrato
+26 PR027 Vintage Phase EP
+27 PR028 Phase EP Mix
+28 PR029 EP 90 Phaser
+29 PR030 Vortex EP
+30 PR031 Flicker Piano
+31 PR032 Suitcase EP OD
+32 PR033 EP Wah
+33 PR034 LoFi E.Piano
+
+Bank 87 85 E.Piano1
+25 CM026 E.Piano 1
+26 CM027 E.Piano 1 w
+27 CM028 E.Piano 1 Trem
+28 CM029 Detuned EP 1
+29 CM030 Vintage EP
+30 CM031 60s E.Piano
+31 CM032 60s E.Piano w
+32 CM033 60s E.Piano Trem
+33 CM034 Tremolo EP
+34 CM035 Tremolo EP w
+35 CM036 Curly Wurly
+36 CM037 Sinus EP
+
+Bank 71 96 E.Piano2
+34 PR035 More Tine EP
+35 PR036 80s FM EP
+36 PR037 MK-80 Bright EP
+37 PR038 Mood Azure
+38 PR039 Mixture EP
+
+Bank 87 85 E.Piano2
+37 CM038 E.Piano 2
+38 CM039 E.Piano 2 w
+39 CM040 Detuned EP 2
+40 CM041 St.FM EP
+41 CM042 St.FM EP w
+42 CM043 EP Legend
+43 CM044 EP Legend w
+44 CM045 EP Phaser 1
+45 CM046 EP Phaser 2
+46 CM047 EP Phaser 3
+47 CM048 EP Belle
+
+Bank 71 96 Ensemble Strings
+39 PR040 Rich Strings
+40 PR041 Full Strings
+41 PR042 Decay Strings
+42 PR043 Strings/Pizz
+43 PR044 CharacterStrings
+44 PR045 Chamber Strings
+45 PR046 LoFi Strings
+46 PR047 Phono Strings
+47 PR048 Ending Scene
+
+Bank 87 87 Ensemble Strings
+60 CM317 Tremolo Str
+61 CM318 Pizzicato Str
+62 CM319 Pizzicato Str w
+63 CM320 Pizz
+64 CM321 Pops Seq 4
+65 CM322 Pops Seq 4 w
+74 CM331 Strings
+75 CM332 Orchestra
+76 CM333 60s Strings
+77 CM334 Small Strings
+78 CM335 Hybrid Strings
+79 CM336 Small Str Stacc
+80 CM337 Strings Stacc
+81 CM338 Strings Stacc w
+82 CM339 Strings Amp
+83 CM340 Slow Strings
+84 CM341 Mood Strings
+
+Bank 71 96 Solo Strings
+48 PR049 Pop Violin
+49 PR050 Pop Viola
+50 PR051 Pop Cello
+51 PR052 Pop Contrabass
+52 PR053 String Solo
+
+Bank 87 87 Solo Strings
+50 CM307 Violin
+51 CM308 Slow Violin
+52 CM309 Violin w
+53 CM310 Violin Amp
+54 CM311 Viola
+55 CM312 Viola Amp
+56 CM313 Cello
+57 CM314 Cello Amp
+58 CM315 Contrabass
+59 CM316 Contrabass Amp
+
+Bank 87 90 Solo Strings
+109 CM750 Fiddle
+110 CM751 Fiddle w
+
+Bank 71 96 Synth Lead
+53 PR054 Clear Dual Saws
+54 PR055 FXM Saw Lead
+55 PR056 Tight Saw Lead
+56 PR057 Mild Saw Lead
+57 PR058 Wind Syn Lead
+58 PR059 Dual SuperSaw Ld
+59 PR060 NSoul Synth Lead
+60 PR061 Windy Synth
+61 PR062 Textured Touch
+62 PR063 Driven OB
+63 PR064 Dual Sqr Lead
+64 PR065 Next Sqr Lead
+65 PR066 Blow Lead
+66 PR067 LqFunk Syn Lead
+67 PR068 Pale Sine
+68 PR069 Modern Vintage
+69 PR070 Organic Lead
+70 PR071 Linear Lead
+71 PR072 Synth Hero
+72 PR073 Be Happy OctLead
+73 PR074 SpkPop Syn Lead
+74 PR075 Irish Finite Ld
+75 PR076 Billa-Lead
+76 PR077 Rind Mod Lead
+77 PR078 ZenoPoly
+78 PR079 ZenoLead 8000
+79 PR080 Big Room Lead
+80 PR081 3 Analog OSC
+81 PR082 X-MOD Lead
+82 PR083 HiPitch Buzz Ld
+83 PR084 Buzz Sucker
+84 PR085 Sync Ld Mono
+85 PR086 SyncModulate
+
+Bank 87 88 Synth Lead
+90 CM475 Square Lead 1
+91 CM476 Square Lead 2
+92 CM477 Sine Lead
+93 CM478 Porta Sine Lead
+94 CM479 Pure Lead Dly
+95 CM480 Dist Flt TB 2
+96 CM481 Dist Flt TB 1
+97 CM482 DistFlt TB 1 Dly
+98 CM483 80’s Tech Lead
+99 CM484 Sqr Buzz Lead
+100 CM485 Ana Vox Lead
+101 CM486 CS Lead
+102 CM487 Classic GR
+103 CM488 Therasaw
+104 CM489 Bell Lead
+105 CM490 Bell Lead w
+106 CM491 Simple Tri
+107 CM492 Spooky Lead
+108 CM493 Soft Lead
+109 CM494 Sqr Lead 1
+110 CM495 Sqr Lead 2
+111 CM496 Sqr Lead 3
+112 CM497 Saw Lead 1
+113 CM498 Saw Lead 1 w
+114 CM499 Saw Lead 2
+115 CM500 Doctor Solo
+116 CM501 Natural Lead
+117 CM502 Sequenced Saw
+118 CM503 Sequenced Saw w
+119 CM504 Ah Super Saw
+120 CM505 Ah SuperSaw Dst1
+121 CM506 Ah SuperSaw Dst2
+122 CM507 Porta Super Saw
+123 CM508 S-Saw Stac Ld
+124 CM509 S-Saw Stac Ld w
+125 CM510 Tekno Lead 1 Atk
+126 CM511 Tekno Lead 1 Bit
+127 CM512 OSC-Sync Ld 1
+
+Bank 87 89 Synth Lead
+0 CM513 Wave Shape Ld
+1 CM514 Wave Shape Ld w
+2 CM515 Legato Tkno
+3 CM516 Legato Tkno w
+4 CM517 Tekno Lead 2
+5 CM518 Buzz Lead
+6 CM519 Buzz Lead Dist
+7 CM520 Saw Buzz Ld
+8 CM521 Saw Buzz Ld w
+9 CM522 Saw Lead 3
+10 CM523 Saw Lead 4
+11 CM524 Classic Lead
+12 CM525 Ramp Lead
+13 CM526 Saw Lead 5
+14 CM527 Jupiter Lead 1
+15 CM528 JupiterLead1 Atk
+16 CM529 Jupiter Lead 2
+17 CM530 Saw Lead 6
+18 CM531 On Air
+19 CM532 Saw Lead 7
+20 CM533 Saw Lead 8
+21 CM534 Warm Lead
+22 CM535 Saw Lead 9
+23 CM536 Saw Lead 10
+24 CM537 EQ Lead
+25 CM538 Saw Lead 11
+26 CM539 Saw Lead 12
+27 CM540 Waspy Lead
+28 CM541 Octa Square
+29 CM542 Octa Juice
+30 CM543 Fat GR Lead
+31 CM544 Octa Saw
+32 CM545 Juicy Lead
+33 CM546 OSC-Sync Ld 2
+34 CM547 OSC-Sync Ld 3
+35 CM548 Syn.Calliope
+36 CM549 Syn.Calliope w
+37 CM550 Syn.Calliope Dly
+38 CM551 Chiffer Lead
+39 CM552 Chiffer Lead w
+40 CM553 Charang
+41 CM554 Wire Lead
+42 CM555 Wire Lead Cho
+43 CM556 Solo Vox
+44 CM557 Solo Vox w
+45 CM558 Solo Vox Cho
+46 CM559 OB Lead
+47 CM560 5th Saw Lead
+48 CM561 5th Saw Lead Dly
+49 CM562 Housechord
+50 CM563 Ju-D Fifths
+51 CM564 Major 7
+52 CM565 Dance Saws 1
+53 CM566 Bass+Lead
+54 CM567 Bass+Lead w
+55 CM568 Delayed Lead
+56 CM569 Delayed Lead w
+57 CM570 Delayed Lead Cho
+
+Bank 71 96 Synth Brass
+86 PR087 SawsSynBrass
+87 PR088 DetuneSawBrs
+88 PR089 Mild SynBrass
+89 PR090 Silky JP
+90 PR091 FatSynBrass
+91 PR092 Soft Center
+92 PR093 Trad Syn Brass
+93 PR094 J-Pop Brass
+94 PR095 Brash!
+95 PR096 J-Brass For KY
+96 PR097 Neo SuperBrs
+97 PR098 Large Rave
+98 PR099 Invite Big Brass
+99 PR100 Horn Blast
+
+Bank 87 88 Synth Brass
+23 CM408 Synth Brass 1
+24 CM409 Synth Brass 3
+25 CM410 Synth Brass 3 w
+26 CM411 Analog Brass 1
+27 CM412 Analog Brass 1 w
+28 CM413 Analog Brs 1 w 2
+29 CM414 Jump Brass
+30 CM415 Jump Brass Amp
+31 CM416 JP8 Brass 1
+32 CM417 JP8 Brass 1 w
+33 CM418 Syn Brass
+34 CM419 Syn Brass w
+35 CM420 JP8 Brass 2
+36 CM421 80’s Brass 1
+37 CM422 80’s Brass 2
+38 CM423 Synth Brass 2
+39 CM424 Synth Brass 4
+40 CM425 Analog Brass 2
+41 CM426 Analog Brass 3
+42 CM427 Analog Brass 3 w
+43 CM428 Reso Brass
+44 CM429 Poly Brass
+45 CM430 Soft Brass
+46 CM431 FM Brass
+47 CM432 Warm Syn Brass
+48 CM433 Dual Saw Brass
+49 CM434 Soft Syn Brass
+50 CM435 Vintage Brass
+51 CM436 Vintage Brass w
+52 CM437 Euro Express
+53 CM438 Mix Brass
+54 CM439 Brite Syn Brass
+55 CM440 JP8 Brass 3
+56 CM441 Synth Brass 5
+57 CM442 80’s Brass 3
+58 CM443 80’s Brass 4
+
+Bank 71 96 Synth Pad/Str
+100 PR101 Legend Pad
+101 PR102 New Jupiter
+102 PR103 Chord Of Canada
+103 PR104 Underscore BPF
+104 PR105 Super SynPad
+105 PR106 JP8 Slow Strings
+106 PR107 Soft Warm Pad
+107 PR108 Boreal Pad
+108 PR109 Air Pad
+109 PR110 Voice Heaven
+110 PR111 Retro ChoirPad
+111 PR112 Long Breath
+112 PR113 SynthChord01 MC
+113 PR114 Bright Counter
+114 PR115 ReverseSweep
+
+Bank 87 87 Synth Pad/Str
+85 CM342 Syn Strings 1
+86 CM343 Syn Strings 1 w
+87 CM344 Syn Strings 3
+88 CM345 Syn Strings 3 w
+89 CM346 Syn Strings 2
+90 CM347 Syn Strings 2 w
+
+Bank 87 89 Synth Pad/Str
+73 CM586 Warm Pad
+74 CM587 Warm Pad Dly
+75 CM588 Sine Pad
+76 CM589 JP8 Strings 1
+77 CM590 Soft Pad
+78 CM591 JP8 Strings 2
+79 CM592 JUNO Str
+80 CM593 JUNO Str w
+81 CM594 Oct Strings
+82 CM595 Brite Str
+83 CM596 Voyager
+84 CM597 Voyager w
+85 CM598 JP8 Strings 3
+86 CM599 PWM Str 1
+87 CM600 PWM Str 2
+88 CM601 Fading Str
+89 CM602 Vintage Str
+90 CM603 Vintage Str Amp
+91 CM604 Analog Str
+105 CM618 Space Voice
+106 CM619 Space Voice Dly
+107 CM620 Itopia
+108 CM621 Itopia Dly
+109 CM622 JP8 Hollow 1
+110 CM623 JP8 Hollow 2
+111 CM624 Hollow Pad
+112 CM625 Strobe Pad
+113 CM626 Heaven Pad
+114 CM627 Itopia w
+115 CM628 Bowed Glass
+116 CM629 Bowed Glass Dly
+117 CM630 Brite Wine
+118 CM631 Bell Pad
+119 CM632 Wine Pad
+120 CM633 Fine Wine Pad
+121 CM634 Organ Pad
+122 CM635 Brite Wine w
+123 CM636 Metallic Pad
+124 CM637 Metallic Pad Dly
+125 CM638 Chime Pad
+126 CM639 Halo Pad
+127 CM640 Halo Pad w
+
+Bank 87 90 Synth Pad/Str
+0 CM641 Halo Pad Dly
+1 CM642 Sweep Pad 1
+2 CM643 Sweep Pad 1 Dly
+3 CM644 Trns Sweep Pad w
+4 CM645 Trns Sweep Pad
+5 CM646 Giant Sweep
+6 CM647 Sweep Pad 2 w
+7 CM648 Sweep Pad 2
+8 CM649 Reso Pad
+9 CM650 Ice Rain
+10 CM651 Ice Rain Dly
+11 CM652 Healing Pad
+12 CM653 Healing Pad w
+13 CM654 Soundtrack
+14 CM655 Soundtrack Dly
+15 CM656 Random Str
+16 CM657 Fairy’s Song
+91 CM732 Star Theme
+92 CM733 Star Theme Dly
+
+Bank 71 96 Synth Bellpad
+115 PR116 D50 Fantasia
+116 PR117 D50 Stac Heaven
+117 PR118 D50 Stack Pad
+118 PR119 Amethyst Dream
+119 PR120 Dreaming Harp
+
+Bank 87 89 Synth Bellpad
+58 CM571 Fantasia
+59 CM572 D50 Bell
+60 CM573 D50 Bell w
+61 CM574 Fantasy 1
+62 CM575 D50 Fantasy
+63 CM576 D50 Fantasy w
+64 CM577 Soft Bell
+65 CM578 Dreambell
+66 CM579 Dreambell w
+67 CM580 Dreaming Box
+68 CM581 Dreaming Box w
+69 CM582 Fantasy 2
+70 CM583 Fantasy 2 w
+71 CM584 Stacc Heaven
+72 CM585 Stacc Heaven w
+
+Bank 71 96 Synth PolyKey
+120 PR121 Remember EP
+121 PR122 Lo-Fi Synth Keys
+122 PR123 Dreamer Keys
+123 PR124 Power Short
+124 PR125 Cue Tip
+125 PR126 Hybrid Synth Key
+126 PR127 Trance-Touch
+127 PR128 Glitterwheelie
+
+Bank 71 97 Synth PolyKey
+0 PR129 Aah Formant
+1 PR130 Cinema Transform
+2 PR131 Chomping
+3 PR132 Chiptune Square
+4 PR133 Chiptune Octave
+5 PR134 Chiptune FX
+6 PR135 Wet Keys
+7 PR136 Spaghetti Square
+
+Bank 87 89 Synth PolyKey
+92 CM605 Polysynth
+93 CM606 Polysynth Dly
+94 CM607 Digitaless
+95 CM608 Analog Saws
+96 CM609 Super Saws
+97 CM610 Super Saws Atk
+98 CM611 Dance Saws 2
+99 CM612 S-Saw Pad
+100 CM613 S-Saw Pad w
+101 CM614 DOC Stack
+102 CM615 Trance Saws
+103 CM616 Trance Saws w
+104 CM617 PWM Pad
+
+Bank 87 90 Synth PolyKey
+60 CM701 Atmosphere
+61 CM702 Atmosphere Cho
+62 CM703 Analog Dream
+63 CM704 Analog Dream Atk
+64 CM705 Choir Key
+65 CM706 Choir Key Echo
+66 CM707 Brass Key
+67 CM708 Harpsi Key
+68 CM709 Harpsi Key w
+69 CM710 Brightness
+70 CM711 Brightness Cho
+71 CM712 Vox Key
+72 CM713 Air Key 1
+73 CM714 Air Key 2
+74 CM715 Digital Key
+75 CM716 Dreamheaven 1
+76 CM717 Dreamheaven 2
+
+Bank 71 97 Synth FX
+8 PR137 Flanging Atmos.
+9 PR138 FS Crystal
+10 PR139 Mixture Fx Pad
+11 PR140 Unknown Planet
+12 PR141 Atmospheric Oohs
+13 PR142 Breathy Bubbles
+14 PR143 New Planetz
+15 PR144 1Note Synth Maj7
+16 PR145 SynthFX+Pluck
+17 PR146 Future Chord
+18 PR147 Vibes BendChord
+19 PR148 ResoSweep Vib
+20 PR149 SoundStrange
+21 PR150 Tubulence
+22 PR151 Zap B3 & C4
+23 PR152 Gridder
+24 PR153 Flying Key
+
+Bank 87 90 Synth FX
+77 CM718 Goblins
+78 CM719 Cosmic Drops
+79 CM720 Echo Drops
+80 CM721 Echo Drops Cho
+81 CM722 Echo Bell
+82 CM723 Echo Bell Cho
+83 CM724 Echo Bell Dly
+84 CM725 Echo Pan
+85 CM726 Echo Pan Cho
+86 CM727 LFO Saw
+87 CM728 Keep Going
+88 CM729 Electrostar
+89 CM730 Scream at me
+90 CM731 Scream at me w
+
+Bank 71 97 Synth Pluck
+25 PR154 Electric Pluck
+26 PR155 Heartbeat Pluck
+27 PR156 Margherita Pizz
+28 PR157 Kernels
+29 PR158 Doctopus /Mod
+30 PR159 PWM Acid Syn
+31 PR160 Seq X-Mod Wave
+32 PR161 Flip Pluck
+33 PR162 Thin PW Pluck
+
+Bank 87 90 Synth Pluck
+17 CM658 Crystal
+18 CM659 Crystal w
+19 CM660 Synth Mallet
+20 CM661 Synth Mallet w
+21 CM662 Synth Mallet Dly
+22 CM663 Sine Mallet
+23 CM664 Seq Saw
+24 CM665 Seq 1
+25 CM666 Seq 1 w
+26 CM667 Seq 2
+27 CM668 Seq 3
+28 CM669 Seq Sqr 1
+29 CM670 Seq Sqr 1 Atk
+30 CM671 Seq Sqr 2
+31 CM672 Seq Tri
+32 CM673 Seq Tri w
+33 CM674 Synth Seq 1
+34 CM675 Synth Seq 2
+35 CM676 Synth Seq 3
+36 CM677 Analog Seq
+37 CM678 Detune Seq
+38 CM679 Uni-G
+39 CM680 Seq 4
+40 CM681 Analog Poly
+41 CM682 Analog Poly Dly
+42 CM683 Saws Key
+43 CM684 Vintage Key
+44 CM685 Analog Key w
+45 CM686 Analog Key
+46 CM687 Bell 1
+47 CM688 Bell 1 Atk
+48 CM689 Bell 2
+49 CM690 Bell 3
+50 CM691 Bell 3 Amp
+51 CM692 MusicBox Key w
+52 CM693 MusicBox Key
+53 CM694 Music Bells
+54 CM695 Music Bells w
+55 CM696 Dreaming Bell
+56 CM697 FingBell Key
+57 CM698 FingBell Key w
+58 CM699 Org Bell
+59 CM700 Pluck Synth
+
+Bank 71 97 Synth Bass
+34 PR163 AX MG Bass 1
+35 PR164 Syn Bass Hook
+36 PR165 Round Bass
+37 PR166 Pop SynthBass 1
+38 PR167 Pop SynthBass 2
+39 PR168 Pop SynthBass 3
+40 PR169 XMod2 Donk Bs
+41 PR170 Super-Basso
+42 PR171 Buzz Biter
+43 PR172 Res Cooker
+44 PR173 Persist Bass
+45 PR174 Shave Bass
+46 PR175 Monster Bass
+47 PR176 Synthwave Bass
+48 PR177 Wub Bass
+49 PR178 TB Dist Bass
+50 PR179 Dark Sub
+51 PR180 Dist.808StyleBs1
+52 PR181 Bit Subby
+53 PR182 Mod Growl Bass1
+54 PR183 Show Me Low
+55 PR184 Organ Bs
+56 PR185 Razor Bass Lead
+
+Bank 87 86 Synth Bass
+99 CM228 Synth Bass 1
+100 CM229 Synth Bass 1 w
+101 CM230 Warm Syn Bass
+102 CM231 Synth Bass 3
+103 CM232 Clav.Bass
+104 CM233 Clav.Bass w
+105 CM234 Hammer Bass
+106 CM235 Hammer Bass Atk
+107 CM236 Juno Sqr Bass
+108 CM237 MKS-50 Bass
+109 CM238 R&B Bass 1
+110 CM239 R&B Bass 1 w
+111 CM240 R&B Bass 1 Atk
+112 CM241 MC202 Bass
+113 CM242 Compu Bass 1
+114 CM243 Compu Bass 1 Atk
+115 CM244 Muffled Bass
+116 CM245 R&B Bass 2
+117 CM246 R&B Bass 2 w
+118 CM247 R&B Bass 2 Atk
+119 CM248 R&B Bass 3
+120 CM249 R&B Bass 3 w
+121 CM250 R&B Bass 4
+122 CM251 MG Bass 1
+123 CM252 MG Bass 1 w
+124 CM253 MG Bass 1 Atk
+125 CM254 MG Bass 2
+126 CM255 MG Bass 2 w
+127 CM256 MG Bass 3
+
+Bank 87 87 Synth Bass
+0 CM257 MG Bass 4
+1 CM258 MG Bass 5
+2 CM259 New Reso Bs 1
+3 CM260 New Reso Bs 1 w
+4 CM261 New Reso Bs 2
+5 CM262 Reso Bass 1
+6 CM263 Rubber Bass
+7 CM264 Reso Bass 2
+8 CM265 Reso Bass 3
+9 CM266 Reso Bass 4
+10 CM267 Acid Bass 1
+11 CM268 Acid Bass 2
+12 CM269 Acid Bass 3
+13 CM270 TB Bass 1
+14 CM271 TB Bass 2
+15 CM272 Flat Bass
+16 CM273 Sub Bass
+17 CM274 Sub Bass Atk
+18 CM275 Garage Bass
+19 CM276 Synth Bass 2
+20 CM277 Synth Bass 5
+21 CM278 Synth Bass 4
+22 CM279 Synth Bass 6
+23 CM280 Rubber Syn Bs
+24 CM281 Attack Pulse
+25 CM282 Seq Bass
+26 CM283 106 Bass 1
+27 CM284 106 Bass 2
+28 CM285 Juno Bass
+29 CM286 Filter Env Bs
+30 CM287 Unison Syn Bs
+31 CM288 Unison Syn Bs w
+32 CM289 Alpha Bass
+33 CM290 Alpha Bass w
+34 CM291 Detune Bs
+35 CM292 Detune Bs w
+36 CM293 Ramp Bass
+37 CM294 Ramp Bass Atk
+38 CM295 Pedal Bass 1
+39 CM296 Pedal Bass 2
+40 CM297 Compu Bass 2
+41 CM298 Sqr Bass w
+42 CM299 Modular Bs 1
+43 CM300 Modular Bs 2
+44 CM301 Synth Bass 7
+45 CM302 Pedal Bass 3
+46 CM303 Monster Bass 1
+47 CM304 Monster Bass 2
+48 CM305 Growl Bass 1
+49 CM306 Growl Bass 2
+
+Bank 71 97 Pulsating
+57 PR186 Ice Dust
+58 PR187 House Moves
+59 PR188 Chordy Wave
+60 PR189 Fluctuations
+61 PR190 Ripples
+62 PR191 JP Never Dies
+63 PR192 Byzantine Wave
+64 PR193 Sliced Saw
+65 PR194 Talking S&H
+66 PR195 Pulsating Oohs
+67 PR196 Unstable Space
+68 PR197 ChordonBleu Reso
+
+Bank 71 97 E.Organ
+69 PR198 B.Organ
+70 PR199 Dist B.Organ
+71 PR200 Soft Jazz Organ
+72 PR201 Whisper Organ
+73 PR202 Gospel Organ
+74 PR203 Full Draw
+75 PR204 Lower Organ
+76 PR205 Light Organ
+77 PR206 Perc Jazz Organ
+78 PR207 Perc Pop Organ
+79 PR208 Surf's Up!
+80 PR209 Organesque
+81 PR210 Happy 60s
+82 PR211 96 Years
+83 PR212 Glory Us Rok
+
+Bank 87 85 E.Organ
+104 CM105 Organ 1
+105 CM106 Organ 1 Rtry
+106 CM107 Tremolo Organ
+107 CM108 Tremolo Organ w
+108 CM109 60s Organ
+109 CM110 60s Organ Cho
+110 CM111 Organ 2
+111 CM112 Organ 2 Rtry
+112 CM113 Ana Organ 1
+113 CM114 Ana Organ 1 Rtry
+114 CM115 Ana Organ 2
+115 CM116 Ana Organ 3
+116 CM117 Ana Organ 4
+117 CM118 Perc.Organ 1
+118 CM119 Perc.Organ 1Rtry
+119 CM120 Chorus Organ
+120 CM121 Perc.Organ 2
+121 CM122 E.Organ 1
+122 CM123 E.Organ 1 w
+123 CM124 E.Organ 1 Rtry
+124 CM125 E.Organ 2
+125 CM126 E.Organ 2 Trem
+126 CM127 E.Organ 3
+127 CM128 Mad Organ
+
+Bank 87 86 E.Organ
+0 CM129 Rock Organ 1
+1 CM130 Rock Organ Amp
+2 CM131 Rock Organ 2
+3 CM132 Rock Organ w
+4 CM133 Full Organ Rtry
+5 CM134 Full Organ OD
+6 CM135 Rotary Organ
+7 CM136 Rotary Organ Cho
+
+Bank 71 97 Pipe Organ
+84 PR213 Pos Org O /Mod
+85 PR214 Soft Pipe Organ
+86 PR215 Positive Organ
+87 PR216 Classical Organ
+88 PR217 Grand Organ
+
+Bank 87 86 Pipe Organ
+8 CM137 Church Organ 1
+9 CM138 Church Organ 1 w
+10 CM139 Church Organ 2
+11 CM140 Church Organ 2 w
+12 CM141 Church Organ 3
+13 CM142 Church Organ 3 w
+16 CM145 Puff Organ
+17 CM146 Puff Organ w
+
+Bank 87 86 Reed Organ
+14 CM143 Reed Organ
+15 CM144 Reed Organ w
+
+Bank 71 97 Harpsichord
+89 PR218 Elegant Harpsi
+90 PR219 Harpsi 8'+4'
+
+Bank 87 85 Harpsichord
+48 CM049 Harpsichord
+49 CM050 Coupled Harpsi.
+50 CM051 Harpsichord w
+51 CM052 Harpsichord w 2
+52 CM053 Harpsichord o
+
+Bank 71 97 Clav
+91 PR220 Harpsy Clav
+92 PR221 Clav White
+93 PR222 Clav Phase
+
+Bank 87 85 Clav
+53 CM054 Clav 1
+54 CM055 Clav 1 w
+55 CM056 Clav 1 Phaser
+56 CM057 Clav 2
+57 CM058 Clav 2 w
+58 CM059 Pulse Clav 1
+59 CM060 Pulse Clav 1 w
+60 CM061 Pulse Clav 1 w 2
+61 CM062 Pulse Clav 2
+62 CM063 Biting Clav
+63 CM064 Analog Clav
+
+Bank 71 97 Celesta
+94 PR223 Pure Celesta
+
+Bank 87 85 Celesta
+64 CM065 Celesta
+65 CM066 Celesta w
+
+Bank 71 97 Accordion
+95 PR224 Chamber Accord
+96 PR225 Nostalgic Accord
+97 PR226 Bright Musette
+
+Bank 87 86 Accordion
+18 CM147 Accordion 1
+19 CM148 Accordion 1 w
+20 CM149 Accordion 2
+21 CM150 Accordion It
+22 CM151 Vodkakordion
+25 CM154 Bandoneon
+26 CM155 Bandoneon w
+
+Bank 71 97 Harmonica
+98 PR227 Blues Reed
+
+Bank 87 86 Harmonica
+23 CM152 Harmonica
+24 CM153 Harmonica w
+
+Bank 71 97 Bell
+99 PR228 Concert Tubular
+100 PR229 XMod2 Soft Bell
+101 PR230 Vintage Bell Imp
+102 PR231 Synth Bell 1
+103 PR232 Tube RingMod
+
+Bank 87 85 Bell
+96 CM097 Tubular Bells
+97 CM098 Tubular Bells w
+98 CM099 Church Bell
+99 CM100 Church Bell w
+100 CM101 Carillon
+101 CM102 Carillon w
+
+Bank 87 90 Bell
+113 CM754 Tinkle Bell
+114 CM755 Tinkle Bell w
+115 CM756 Agogo
+116 CM757 Agogo w
+
+Bank 71 97 Mallet
+104 PR233 Solid Marimba
+105 PR234 Soft Mallet
+106 PR235 Jazz Vibe
+107 PR236 Fine Xylophone
+108 PR237 Glockenspiel 2
+109 PR238 Fat SynMallet
+110 PR239 Warm Steel Drums
+111 PR240 Glamour
+112 PR241 Resonant Santur
+
+Bank 87 85 Mallet
+66 CM067 Glockenspiel
+67 CM068 Glockenspiel w
+72 CM073 Vibraphone
+73 CM074 Vibraphone w
+74 CM075 Vibraphone w 2
+75 CM076 Vibraphone Trem
+76 CM077 Jazz Vib
+77 CM078 Jazz Vib w
+78 CM079 Marimba
+79 CM080 Marimba w
+80 CM081 Marimba w 2
+81 CM082 Bs Marimba 1
+82 CM083 Bs Marimba 2
+83 CM084 Xylophone 1
+84 CM085 Xylophone 1 w
+85 CM086 Xylophone 1 w 2
+86 CM087 Xylophone 2
+87 CM088 Kalimbells
+88 CM089 Pops Seq 2
+89 CM090 Pops Seq 2 w
+90 CM091 Pops Seq 2 Atk
+91 CM092 Pops Seq 3
+92 CM093 Pops Seq 3 Atk
+93 CM094 Ethno Keys
+94 CM095 Ethno Keys Dly
+95 CM096 Toy Box
+102 CM103 Santur
+103 CM104 Santur w
+
+Bank 87 87 Mallet
+68 CM325 Yang Qin
+69 CM326 Yang Qin w
+
+Bank 71 97 Ac.Guitar
+113 PR242 Bright Nylon/Sld
+114 PR243 Steel Guitar/Sld
+115 PR244 Steel Guitar/Hrm
+116 PR245 Folk Pad
+117 PR246 Ac Gt Dream
+
+Bank 87 86 Ac.Guitar
+27 CM156 Nylon Gtr 1
+28 CM157 Ukulele
+29 CM158 Nylon Gtr o
+30 CM159 Nylon Gtr 2
+31 CM160 Nylon Gtr w
+32 CM161 Nylon Gtr Amp
+33 CM162 Steel-str.Gtr
+34 CM163 Steel-str.Gtr w
+35 CM164 Steel-str.GtrAmp
+36 CM165 Steel-str.GtrDst
+37 CM166 Stl Gtr Trem
+38 CM167 12-str.Guitar
+39 CM168 12-str.Guitar w
+40 CM169 Mandolin
+41 CM170 Steel+Body
+42 CM171 Reso Guitar w
+43 CM172 Reso Guitar Amp
+
+Bank 71 97 E.Guitar
+118 PR247 JC ST Guitar
+119 PR248 ChoCleanGtr | Nz
+120 PR249 Nice Oct Guitar
+121 PR250 Space Mute
+
+Bank 87 86 E.Guitar
+44 CM173 Jazz Guitar
+45 CM174 Jazz Guitar w
+46 CM175 Jazz Guitar Atk
+47 CM176 Hawaiian Gtr
+48 CM177 Clean Guitar
+49 CM178 Clean Guitar w
+50 CM179 Clean Gtr Chorus
+51 CM180 Chorus Gtr 1
+52 CM181 Soft Clean Gtr
+53 CM182 Soft Clean Gtr w
+54 CM183 Soft Clean Atk
+55 CM184 Soft Dist Gtr
+56 CM185 Mid Tone Gtr
+57 CM186 Mid Tone Gtr Dly
+58 CM187 Mid Tone GtrTrem
+59 CM188 Muted Guitar
+60 CM189 Muted Guitar w
+61 CM190 Muted Guitar Atk
+62 CM191 Muted Guitar Dst
+63 CM192 Funk Guitar 1
+64 CM193 Funk Guitar 2
+65 CM194 Chorus Gtr 2
+66 CM195 Chorus Gtr2 Echo
+67 CM196 Chorus Gtr2 Step
+
+Bank 71 97 Dist.Guitar
+122 PR251 OD Gtr | Nz
+123 PR252 Dist Gtr | Nz
+124 PR253 Dist Jumper
+125 PR254 Luminous DistGtr
+126 PR255 Searing Lead Gtr
+127 PR256 E Lead Flamer
+
+Bank 87 86 Dist.Guitar
+68 CM197 Overdrive Gtr 1
+69 CM198 Overdrive Gtr 2
+70 CM199 Overdrive Chorus
+71 CM200 Guitar Pinch
+72 CM201 Distortion Gtr 1
+73 CM202 Distortion Gtr 2
+74 CM203 Distortion Gtr 3
+75 CM204 Distortion Gtr 4
+76 CM205 Distortion Gtr 5
+77 CM206 Gtr Feedback 1
+78 CM207 Dist.Rhy Gtr
+79 CM208 Dist.Rhy Gtr Amp
+80 CM209 Gtr Harmonics
+81 CM210 Gtr Harmonics w
+82 CM211 Gtr Feedback 2
+83 CM212 Gtr Feedback 2 w
+
+Bank 71 98 Ac.Bass
+0 PR257 Mild Ac.Bass
+1 PR258 Bass+Cymbal
+
+Bank 87 86 Ac.Bass
+84 CM213 Acoustic Bass
+85 CM214 Acoustic Bass w
+
+Bank 71 98 E.Bass
+2 PR259 Comp'd JzBs /Slp
+3 PR260 Fretless Bs | Nz
+4 PR261 Pick Bs | Nz
+5 PR262 Slap Bass | Nz
+
+Bank 87 86 E.Bass
+86 CM215 Fingered Bass
+87 CM216 FingeredBass Atk
+88 CM217 Finger Slap
+89 CM218 Finger Slap Atk
+90 CM219 Picked Bass
+91 CM220 Picked Bass Atk1
+92 CM221 Picked Bass Atk2
+93 CM222 Fretless Bass
+94 CM223 Fretless Bass w
+95 CM224 Slap Bass 1
+96 CM225 Slap Bass 1 Atk
+97 CM226 Slap Bass 2
+98 CM227 Slap Bass 2 Amp
+
+Bank 71 98 Plucked/Stroke
+6 PR263 Harpiness
+7 PR264 Delayed Harp
+8 PR265 SpkPop Pluck Key
+9 PR266 Dusk Harp
+10 PR267 Bright Sitar
+11 PR268 Kalimba Cho
+
+Bank 87 85 Plucked/Stroke
+68 CM069 Music Box
+69 CM070 Music Box w
+70 CM071 Pops Seq 1
+71 CM072 Pops Seq 1 Atk
+
+Bank 87 87 Plucked/Stroke
+66 CM323 Harp
+67 CM324 Aerial Harp
+
+Bank 87 90 Plucked/Stroke
+93 CM734 Sitar 1
+94 CM735 Sitar 1 w
+95 CM736 Sitar 2
+96 CM737 Sitar 2 w
+97 CM738 Banjo
+98 CM739 Banjo w
+99 CM740 Shamisen
+100 CM741 Shamisen w
+101 CM742 Koto
+102 CM743 Koto w
+103 CM744 Taisho Koto
+104 CM745 Taisho Koto w
+105 CM746 Kalimba
+106 CM747 Kalimba w
+
+Bank 71 98 Orchestral
+12 PR269 Orch Str Brass
+13 PR270 Orchestra Brass
+
+Bank 71 98 Ensemble Brass
+14 PR271 Light Brass Sect
+15 PR272 Pop Brass Sect
+16 PR273 Soft Brass Sect
+17 PR274 Swelling Horns
+
+Bank 87 88 Ensemble Brass
+14 CM399 French Horn 1
+15 CM400 French Horn 1 w
+18 CM403 Brass 1
+19 CM404 Brass 1 w
+20 CM405 Brass 2
+21 CM406 Brass Atk
+22 CM407 Brass Atk w
+
+Bank 71 98 Solo Brass
+18 PR275 Clear Trumpet
+19 PR276 HM Mute Tp
+20 PR277 Soft Trombone
+
+Bank 87 87 Solo Brass
+125 CM382 Trumpet
+126 CM383 Trumpet Echo
+127 CM384 Dark Trumpet
+
+Bank 87 88 Solo Brass
+0 CM385 Dark Trumpet w
+1 CM386 Romantic Tp
+2 CM387 Romantic Tp Echo
+3 CM388 Trombone 1
+4 CM389 Trombone 1 w
+5 CM390 Trombone 2
+6 CM391 Bright Tb
+7 CM392 Bright Tb w
+8 CM393 Tuba
+9 CM394 Tuba Atk
+10 CM395 Mute Trumpet 1
+11 CM396 Mute Trumpet 1 w
+12 CM397 Mute Trumpet 2
+13 CM398 Mute Trumpet 2 w
+16 CM401 French Horn 2
+17 CM402 FrenchHorn2 Echo
+
+Bank 71 98 Wind
+21 PR278 Clarinet Vib
+22 PR279 Fine Oboe
+23 PR280 English Horn/vsw
+24 PR281 Good Old Day
+25 PR282 Mild Winds
+26 PR283 Asian Wind
+
+Bank 87 88 Wind
+67 CM452 Oboe
+68 CM453 Oboe w
+69 CM454 English Horn
+70 CM455 Bassoon
+71 CM456 Clarinet
+
+Bank 87 90 Wind
+107 CM748 Bagpipe
+108 CM749 Bagpipe w
+111 CM752 Shanai
+112 CM753 Shanai w
+
+Bank 71 98 Flute
+27 PR284 Soloistic Flute
+28 PR285 Be Happy Flute
+29 PR286 Pop Flute
+30 PR287 LoFi Flute
+31 PR288 Sine Flute
+
+Bank 87 88 Flute
+72 CM457 Piccolo
+73 CM458 Flute
+74 CM459 Flute w
+75 CM460 Flute Echo
+77 CM462 Pan Flute
+78 CM463 Pan Flute w
+79 CM464 Pan Flute Dly
+80 CM465 Bottle Blow
+81 CM466 Bottle Blow w
+82 CM467 Bottle Blow Dly
+83 CM468 Shakuhachi
+84 CM469 Shakuhachi w
+85 CM470 Shakuhachi Amp
+
+Bank 71 98 Sax
+32 PR289 Dynamic Sop Sax
+33 PR290 Dynamic Alto Sax
+34 PR291 Dynamic Tnr Sax
+
+Bank 87 88 Sax
+59 CM444 Soprano Sax
+60 CM445 Soprano Sax Amp
+61 CM446 Alto Sax
+62 CM447 Alto Sax Amp
+63 CM448 Tenor Sax
+64 CM449 Tenor Sax Amp
+65 CM450 Baritone Sax
+66 CM451 Baritone Sax Atk
+
+Bank 71 98 Recorder
+35 PR292 TenorRecorder
+36 PR293 Twin Air Lead
+
+Bank 87 88 Recorder
+76 CM461 Recorder
+86 CM471 Whistle
+87 CM472 Whistle Dly
+88 CM473 Ocarina
+89 CM474 Ocarina Echo
+
+Bank 71 98 Vox/Choir
+37 PR294 Syn Voice Lead
+38 PR295 LqFunk Vox Lead
+39 PR296 Choir Aahs
+40 PR297 Wide Choir Aahs
+41 PR298 Angels Voices
+42 PR299 VP-330 Vox
+
+Bank 87 87 Vox/Choir
+91 CM348 Choir 1
+92 CM349 Choir 2
+93 CM350 Choir 3
+95 CM352 Humming
+96 CM353 Synth Voice
+97 CM354 Analog Voice 1
+98 CM355 Analog Voice 2
+101 CM358 Aerial Choir
+102 CM359 Aerial Choir w
+103 CM360 DJ Soft Vox
+104 CM361 DJ Soft Vox w
+105 CM362 Syn Vox
+106 CM363 Syn Vox w
+107 CM364 VP-330 Choir
+108 CM365 VP-330 Choir w
+109 CM366 FXM Voice
+110 CM367 Cat Voice
+111 CM368 Cat Voice Wah
+
+Bank 71 98 Scat
+43 PR300 Jazz Scat Layer
+44 PR301 Jazz Voice Doo
+45 PR302 Jazz Voice Dat
+46 PR303 Jazz Voice Bap
+47 PR304 Jazz Voice Dow
+
+Bank 87 87 Scat
+94 CM351 Voice Doos
+99 CM356 Jazz Scat
+100 CM357 Jazz Scat w
+
+Bank 71 98 Hit
+48 PR305 Philly Hit
+49 PR306 Mix Hit
+50 PR307 Metal Hit
+51 PR308 Rave Stab
+52 PR309 Rotary Syn Min7
+53 PR310 ModCtrl DeepEcho
+54 PR311 JUNO Stab
+55 PR312 JUNO Stab 2
+56 PR313 1Note Squ Maj7
+57 PR314 1Note PhaserEP2
+
+Bank 87 87 Hit
+112 CM369 Orchestra Hit
+113 CM370 Bass Hit
+114 CM371 Bass Hit w
+115 CM372 6th Hit
+116 CM373 6th Hit w
+117 CM374 Euro Hit
+118 CM375 Euro Hit w
+119 CM376 Cheezy Movie
+120 CM377 Cheezy Movie w
+121 CM378 Tao Hit
+122 CM379 Tao Hit w
+123 CM380 House Hit
+124 CM381 House Hit w
+
+Bank 87 91 Sound FX
+5 CM774 Gtr Fret Noise
+6 CM775 Gtr Cut Noise
+7 CM776 Bass String Slap
+8 CM777 Breath Noise
+9 CM778 Flute Key Click
+10 CM779 Seashore
+11 CM780 Rain
+12 CM781 Thunder
+13 CM782 Thunder Dly
+14 CM783 Wind
+15 CM784 Stream
+16 CM785 Stream w
+17 CM786 Bubble 1
+18 CM787 Bubble 1 w
+19 CM788 Bubble 2
+20 CM789 FX Scene
+21 CM790 Tuned Winds
+22 CM791 Tuned Winds w
+23 CM792 Sand Noise
+24 CM793 Bird 1
+25 CM794 Dog
+26 CM795 Horse Gallop
+27 CM796 Bird 2
+28 CM797 Telephone 1
+29 CM798 Telephone 2
+30 CM799 Door Creaking
+31 CM800 Door
+32 CM801 Scratch
+33 CM802 Wind Chimes
+34 CM803 FX Close
+35 CM804 Helicopter
+36 CM805 Car Engine
+37 CM806 Car Stop
+38 CM807 Car Pass
+39 CM808 Car Crash
+40 CM809 Siren
+41 CM810 Train
+42 CM811 Jetplane
+43 CM812 Jetplane Dly
+44 CM813 Starship
+45 CM814 Starship Dly
+46 CM815 Burst Noise
+47 CM816 Passing By
+48 CM817 FX Pass 1
+49 CM818 FX Pass 2
+50 CM819 FX Pass 3
+51 CM820 FX Pass 4
+52 CM821 FX Pass 5
+53 CM822 Poly Sweep Nz
+54 CM823 Reso Sweep Dn
+55 CM824 Applause
+56 CM825 Applause w
+57 CM826 Laughing
+58 CM827 Screaming
+59 CM828 Punch
+60 CM829 Heart Beat
+61 CM830 Footsteps
+62 CM831 Gun Shot
+63 CM832 Machine Gun
+64 CM833 Laser Gun
+65 CM834 Explosion
+66 CM835 Explosion Dly
+67 CM836 Explosion Dist
+68 CM837 FX Hit w
+
+Bank 71 98 Stack
+58 PR315 Emotion Quotient
+59 PR316 Truly Moving
+
+Bank 86 65 Drums
+0 CD001 Standard Kit
+1 CD002 Room Kit
+2 CD003 Power Kit
+3 CD004 Electric Kit
+4 CD005 Analog Kit
+5 CD006 Jazz Kit
+6 CD007 Brush Kit
+7 CD008 Orchestra Kit
+8 CD009 SFX Kit
+9 CD010 Standard Kit w
+10 CD011 Room Kit w
+11 CD012 Power Kit w
+12 CD013 Electric Kit w
+13 CD014 Analog Kit w
+14 CD015 Jazz Kit w
+15 CD016 Brush Kit w
+16 CD017 Orchestra Kit w
+17 CD018 SFX Kit w
+18 CD019 Studio Kit
+19 CD020 Studio Kit w
+20 CD021 Pop Kit
+21 CD022 Pop Kit w
+22 CD023 Pop Kit Lim
+23 CD024 90’s Kit
+24 CD025 90’s Kit comp
+25 CD026 90’s Kit w comp
+26 CD027 80’s Kit
+27 CD028 80’s Kit comp
+28 CD029 80’s Kit w comp
+29 CD030 EDM Kit
+30 CD031 EDM Kit w
+31 CD032 EDM Kit Lim
+32 CD033 Drum&Bass Kit
+33 CD034 Drum&Bass Kit
+34 CD035 Drum&Bass KitLim
+35 CD036 Techno Kit
+36 CD037 Techno Kit w
+37 CD038 House Kit
+38 CD039 House Kit w
+39 CD040 HipHop Kit
+40 CD041 HipHop Kit comp
+41 CD042 HipHop Kit w cmp
+42 CD043 R&B Kit
+43 CD044 R&B Kit w
+44 CD045 TR-909
+45 CD046 TR-909 comp
+46 CD047 TR-909 w comp
+47 CD048 TR-808
+48 CD049 TR-808 comp
+49 CD050 TR-808 w comp
+50 CD051 TR-707&727
+51 CD052 TR-707&727 comp
+52 CD053 TR-707&727 w cmp
+53 CD054 CR-78
+54 CD055 CR-78 comp
+55 CD056 CR-78 w comp
+56 CD057 TR-606
+57 CD058 TR-606 comp
+58 CD059 TR-606 w comp
+59 CD060 TR-626
+60 CD061 TR-626 comp
+61 CD062 TR-626 w comp
+62 CD063 Kick
+63 CD064 Kick w
+64 CD065 Snare
+65 CD066 Snare w
+66 CD067 RimStickClapTom
+67 CD068 RimStickClapTm w
+68 CD069 HiHat Cymbal
+69 CD070 HiHat Cymbal w
+70 CD071 Other Perc 1
+71 CD072 Other Perc 1 w
+72 CD073 Other Perc 2
+73 CD074 Other Perc 2 w
+
+Bank 71 98 Percussion
+60 PR317 Bonus Percs
+
+Bank 87 87 Percussion
+70 CM327 Timpani
+71 CM328 Timpani w
+72 CM329 Timpani Low
+73 CM330 Timpani Atk
+
+Bank 87 90 Percussion
+117 CM758 Steel Drums
+118 CM759 Steel Drums w
+119 CM760 Steel Drums w 2
+120 CM761 Woodblock
+121 CM762 Castanets
+122 CM763 Taiko
+123 CM764 Concert BD
+124 CM765 Concert BD w
+125 CM766 Melodic Tom 1
+126 CM767 Melodic Tom 2
+127 CM768 Synth Drum
+
+Bank 87 91 Percussion
+0 CM769 Synth Drum w
+1 CM770 TR-808 Tom
+2 CM771 Elec.Perc.
+3 CM772 Reverse Cym
+4 CM773 Reverse Cym Atk
+
